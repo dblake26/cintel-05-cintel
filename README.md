@@ -7,7 +7,7 @@ If you decide to try the local development, you'll be able to deploy your live d
 
 You may develop your app in the browser (recommended if you have NOT had 44-608) or develop your app on your machine locally (recommended if you have had 44-608 and/or prior practice with project virtual environments). 
 
-# Your app.py or dashboard/app.py file should have the following sections:
+## Your app.py or dashboard/app.py file should have the following sections:
 
 imports (at the top), e.g., shiny, random, datetime
 define a reactive calc to fake new data points
@@ -19,7 +19,7 @@ Your app should have similar functionality to this basic example before you begi
 
 Basic App: https://github.com/denisecase/cintel-05-cintel-basicLinks to an external site. 
 
-# Customize your requirements.txt
+## Customize your requirements.txt
 PyShiny Playground already includes all the packages listed below. Please do not add these packages to a requirements.txt running in the Playground - but include them in your requirements.txt that you would use for local development. 
 
 faicons - for Font Awesome free Icons
